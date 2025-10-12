@@ -21,3 +21,5 @@ cp .env.example .env
 ```shell
 yarn mint
 ```
+
+<!-- Auto-update: 2025-10-12T09:50:43.715415 -->
